@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
         title: Text('Drawer'),
       ),
       drawer: Drawer(
-          semanticLabel: "jjjj",
           backgroundColor: Color.fromARGB(104, 255, 255, 255),
           child: Padding(
             padding: const EdgeInsets.all(8.0),
